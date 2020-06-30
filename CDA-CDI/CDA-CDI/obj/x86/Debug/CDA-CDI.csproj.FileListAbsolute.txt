@@ -1,0 +1,46 @@
+D:\DFJP\CDA-CDI\CDA-CDI\bin\Debug\CDA-CDI.exe
+D:\DFJP\CDA-CDI\CDA-CDI\bin\Debug\CDA-CDI.pdb
+D:\DFJP\CDA-CDI\CDA-CDI\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\DFJP\CDA-CDI\CDA-CDI\obj\x86\Debug\CDA_CDI.Form1.resources
+D:\DFJP\CDA-CDI\CDA-CDI\obj\x86\Debug\CDA_CDI.Properties.Resources.resources
+D:\DFJP\CDA-CDI\CDA-CDI\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\DFJP\CDA-CDI\CDA-CDI\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\DFJP\CDA-CDI\CDA-CDI\obj\x86\Debug\CDA-CDI.exe
+D:\DFJP\CDA-CDI\CDA-CDI\obj\x86\Debug\CDA-CDI.pdb
+C:\Users\dfjpmosh\Documents\Visual Studio 2010\Projects\CDA-CDI\CDA-CDI\obj\x86\Debug\CDA-CDI.exe
+C:\Users\dfjpmosh\Documents\Visual Studio 2010\Projects\CDA-CDI\CDA-CDI\obj\x86\Debug\CDA-CDI.pdb
+C:\Users\dfjpmosh\Documents\Visual Studio 2010\Projects\CDA-CDI\CDA-CDI\bin\Debug\CDA-CDI.exe
+C:\Users\dfjpmosh\Documents\Visual Studio 2010\Projects\CDA-CDI\CDA-CDI\bin\Debug\CDA-CDI.pdb
+C:\Users\dfjpmosh\Documents\Visual Studio 2010\Projects\CDA-CDI\CDA-CDI\obj\x86\Debug\CDA_CDI.Form1.resources
+C:\Users\dfjpmosh\Documents\Visual Studio 2010\Projects\CDA-CDI\CDA-CDI\obj\x86\Debug\CDA_CDI.Properties.Resources.resources
+C:\Users\dfjpmosh\Documents\Visual Studio 2010\Projects\CDA-CDI\CDA-CDI\obj\x86\Debug\CDA-CDI.csproj.GenerateResource.Cache
+C:\Users\Admon\Dropbox\CDA-CDI\CDA-CDI\obj\x86\Debug\CDA-CDI.exe
+C:\Users\Admon\Dropbox\CDA-CDI\CDA-CDI\obj\x86\Debug\CDA-CDI.pdb
+C:\Users\Admon\Dropbox\CDA-CDI\CDA-CDI\bin\Debug\CDA-CDI.exe
+C:\Users\Admon\Dropbox\CDA-CDI\CDA-CDI\bin\Debug\CDA-CDI.pdb
+C:\Users\Admon\Dropbox\CDA-CDI\CDA-CDI\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Admon\Dropbox\CDA-CDI\CDA-CDI\obj\x86\Debug\CDA_CDI.Form1.resources
+C:\Users\Admon\Dropbox\CDA-CDI\CDA-CDI\obj\x86\Debug\CDA_CDI.Properties.Resources.resources
+C:\Users\Admon\Dropbox\CDA-CDI\CDA-CDI\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Admon\Dropbox\CDA-CDI\CDA-CDI\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\dfjpmosh\Dropbox\CDA-CDI\CDA-CDI\obj\x86\Debug\CDA-CDI.exe
+C:\Users\dfjpmosh\Dropbox\CDA-CDI\CDA-CDI\obj\x86\Debug\CDA-CDI.pdb
+C:\Users\dfjpmosh\Dropbox\CDA-CDI\CDA-CDI\bin\Debug\CDA-CDI.exe
+C:\Users\dfjpmosh\Dropbox\CDA-CDI\CDA-CDI\bin\Debug\CDA-CDI.pdb
+C:\Users\dfjpmosh\Dropbox\CDA-CDI\CDA-CDI\obj\x86\Debug\CDA_CDI.Form1.resources
+C:\Users\dfjpmosh\Dropbox\CDA-CDI\CDA-CDI\obj\x86\Debug\CDA_CDI.Properties.Resources.resources
+C:\Users\dfjpmosh\Dropbox\CDA-CDI\CDA-CDI\obj\x86\Debug\CDA-CDI.csproj.GenerateResource.Cache
+C:\Users\dfjpmosh\Dropbox\CDA-CDI\CDA-CDI\obj\x86\Debug\CDA-CDI.csprojResolveAssemblyReference.cache
+C:\Users\dfjpmosh\Dropbox\CDA-CDI\CDA-CDI\obj\x86\Debug\CDA_CDI.FRegAlumno.resources
+C:\Users\Admon\Dropbox\CDA-CDI\CDA-CDI\obj\x86\Debug\CDA_CDI.FRegAlumno.resources
+C:\Users\dfjpmosh\Dropbox\CDA-CDI\CDA-CDI\obj\x86\Debug\CDA_CDI.CComentarioA.resources
+C:\Users\dfjpmosh\Dropbox\CDA-CDI\CDA-CDI\obj\x86\Debug\CDA_CDI.FRepMaq.resources
+D:\Users\dfjp\Documents\1_Proyectos\Proyectos C#\UASLP\Proyecto Bases de Datos B\CDA-CDI\CDA-CDI\obj\x86\Debug\CDA-CDI.csprojAssemblyReference.cache
+D:\Users\dfjp\Documents\1_Proyectos\Proyectos C#\UASLP\Proyecto Bases de Datos B\CDA-CDI\CDA-CDI\obj\x86\Debug\CDA_CDI.CComentarioA.resources
+D:\Users\dfjp\Documents\1_Proyectos\Proyectos C#\UASLP\Proyecto Bases de Datos B\CDA-CDI\CDA-CDI\obj\x86\Debug\CDA_CDI.Form1.resources
+D:\Users\dfjp\Documents\1_Proyectos\Proyectos C#\UASLP\Proyecto Bases de Datos B\CDA-CDI\CDA-CDI\obj\x86\Debug\CDA_CDI.FRegAlumno.resources
+D:\Users\dfjp\Documents\1_Proyectos\Proyectos C#\UASLP\Proyecto Bases de Datos B\CDA-CDI\CDA-CDI\obj\x86\Debug\CDA_CDI.FRepMaq.resources
+D:\Users\dfjp\Documents\1_Proyectos\Proyectos C#\UASLP\Proyecto Bases de Datos B\CDA-CDI\CDA-CDI\obj\x86\Debug\CDA_CDI.Properties.Resources.resources
+D:\Users\dfjp\Documents\1_Proyectos\Proyectos C#\UASLP\Proyecto Bases de Datos B\CDA-CDI\CDA-CDI\obj\x86\Debug\CDA-CDI.csproj.GenerateResource.cache
+D:\Users\dfjp\Documents\1_Proyectos\Proyectos C#\UASLP\Proyecto Bases de Datos B\CDA-CDI\CDA-CDI\obj\x86\Debug\CDA-CDI.csproj.CoreCompileInputs.cache
+D:\Users\dfjp\Documents\1_Proyectos\Proyectos C#\UASLP\Proyecto Bases de Datos B\CDA-CDI\CDA-CDI\obj\x86\Debug\CDA-CDI.pdb
